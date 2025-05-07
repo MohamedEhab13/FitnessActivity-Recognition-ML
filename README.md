@@ -52,7 +52,7 @@ The pipeline handles sensor data through several stages:
 3. **Outlier Removal**: Statistical methods to clean sensor data
 4. **Feature Engineering**: Extraction of meaningful features from raw motion data
 
-![Data Processing](path/to/data_processing.jpg)
+![Data Processing](reports/figures/Data.png)
 
 ## Feature Engineering
 
@@ -64,7 +64,7 @@ The system extracts several types of features:
 - **Principal Components**: Dimensionality reduction while preserving signal variance
 - **Derived Features**: Resultant acceleration, angular velocity, etc.
 
-![Feature Importance](path/to/feature_importance.jpg)
+![Feature Importance](reports/figures/features.png)
 
 ## Exercise Classification Results
 
@@ -77,7 +77,7 @@ The model can distinguish between various exercises including:
 
 Performance varies by exercise type and intensity:
 
-![Classification Results](path/to/classification_results.jpg)
+![Classification Results](reports/figures/cm.png)
 
 ## Installation
 
