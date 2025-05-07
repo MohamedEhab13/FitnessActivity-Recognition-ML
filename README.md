@@ -12,7 +12,7 @@ A machine learning system for exercise recognition and form analysis using senso
 
 FitSense-ML processes and analyzes motion data (accelerometer and gyroscope readings) from wearable fitness trackers to automatically identify exercise types, count repetitions, and evaluate form. This project demonstrates a complete machine learning pipeline for sensor-based human activity recognition specific to fitness activities.
 
-![Project Overview](path/to/overview_image.jpg)
+![Project Overview](reports/figures/exercises.jpg)
 
 ## Features
 
